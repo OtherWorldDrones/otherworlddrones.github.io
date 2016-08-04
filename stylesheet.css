@@ -75,3 +75,8 @@ div.right{
 	border-style: solid;
 	border-color: red;
 }
+
+p.chatwith{
+	padding-left:10px;
+
+}
