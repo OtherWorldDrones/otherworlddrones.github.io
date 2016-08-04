@@ -11,8 +11,90 @@ hr.topblueline{
 	height:5px;
 }
 
-div.text{
+.text{
+	font-size: 20px;
 	height:100px;
-	width:500px;
+	width:1000px;
+}
+
+.margin{
+	margin: 50px !important;
+}
+
+div.header {
+	height: 40px;
+	width: 500px;
+	/*border: rgb(0, 250, 0);
+	border-color: green;
+	border-radius: 10px;*/
+}
+
+div.top{
+	background: #1e88d4;
+	width: 1000px;
+}
+
+.body{
+	width: 1500px;
+}
+
+.blue{
+	color: blue;
+	width: 1100px;
+	background: #baffcb;
+}
+
+.red{
+	color: red;
+}
+
+.orange{
+	color: orange;
+}
+
+.pad{
+	padding: 10px;
+}
+
+.small{
+	font-size: 45px;
+}
+
+.large{
+	font-size: 70px;
+}
+
+.med{
+	font-size: 55px;
+}
+
+.cursive{
+	font-family: cursive;
+	font-size: 35px;
+}
+
+.tab{
+	margin-left: 40px;
+}
+
+*{
+	font-family: monospace;
+}
+.center{
+	float: center !important;
+	margin: auto !important;
+}
+div.left{
+	width: 100px;
+	margin: 0px !important;
+	float: left;
+}
+
+div.right{
+	width: 250px;
+	background: #9debb1;
+	float: right;
+	border-style: solid;
+	border-color: red;
 }
 

@@ -1,0 +1,11 @@
+p.pagetitle{
+	font-size:60pt;
+	padding-left:50px;
+	color:#eba613;
+}
+
+div.text {
+	height:80px;
+	width:300px;
+	padding-left:40px;
+}

@@ -7,7 +7,7 @@ div.header {
 }
 
 div.top{
-	background: #ff6a00;
+	background: #1e88d4;
 	width: 1000px;
 }
 
@@ -16,7 +16,7 @@ div.top{
 }
 
 .blue{
-	color: #ff6a00 ;
+	color: #1e88d4 ;
 	width: 1000px;
 	background: #cbe6f0;
 }
@@ -33,8 +33,8 @@ div.top{
 	padding: 10px;
 }
 
-p.small{
-	font-size: 5px;
+.small{
+	font-size: 45px;
 }
 
 .large{
@@ -42,7 +42,7 @@ p.small{
 }
 
 .med{
-	font-size: 60px;
+	font-size: 55px;
 }
 
 .cursive{
