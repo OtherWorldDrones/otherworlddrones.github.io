@@ -7,7 +7,7 @@ div.header {
 }
 
 div.top{
-	background: #1e88d4;
+	background: #ff6a00;
 	width: 1000px;
 }
 
@@ -16,17 +16,17 @@ div.top{
 }
 
 .blue{
-	color: blue;
+	color: #ff6a00 ;
 	width: 1000px;
-	background: #baffcb;
+	background: #cbe6f0;
 }
 
 .red{
-	color: red;
+	color:#26c5f1;
 }
 
 .orange{
-	color: orange;
+	color:white;
 }
 
 .pad{
