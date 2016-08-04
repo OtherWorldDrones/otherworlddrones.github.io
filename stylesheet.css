@@ -6,18 +6,43 @@ div.header {
 	border-radius: 10px;*/
 }
 
+div.top{
+	background: #1e88d4;
+	width: 1000px;
+}
+
+.body{
+	width: 1500px;
+}
+
 .blue{
 	color: blue;
-	width: 500px;
-	background: #bdebf2;
+	width: 1000px;
+	background: #baffcb;
 }
 
 .red{
 	color: red;
 }
 
+.orange{
+	color: orange;
+}
+
+.pad{
+	padding: 10px;
+}
+
 p.small{
 	font-size: 5px;
+}
+
+.large{
+	font-size: 70px;
+}
+
+.med{
+	font-size: 60px;
 }
 
 .cursive{
@@ -25,17 +50,21 @@ p.small{
 	font-size: 35px;
 }
 
+.tab{
+	margin-left: 40px;
+}
+
 *{
 	font-family: monospace;
 	font-size: 30px; 
 	margin: auto;
-	padding: 10px;
 }
 div.center{
 	margin: auto;
 }
 div.left{
 	width: 100px;
+	margin: 0px !important;
 	float: left;
 }
 

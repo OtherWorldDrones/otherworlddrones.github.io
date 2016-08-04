@@ -1,0 +1,48 @@
+
+*{
+	font-family: arial;
+}
+
+
+div.header {
+	font-size: 40px;
+	/*border: rgb(0, 250, 0);
+	border-color: green;
+	border-radius: 10px;*/
+}
+
+.blue{
+	color: #37B2DB;
+	width: 500px;
+	background: ;
+}
+
+.red{
+	color: red;
+}
+
+p.small{
+	font-size: 5px;
+}
+
+.cursive{
+	font-family: cursive;
+	font-size: 35px;
+}
+
+
+div.center{
+	margin: auto;
+}
+div.left{
+	width: 100px;
+	float: left;
+}
+
+div.right{
+	width: 250px;
+	background: #9debb1;
+	float: right;
+	border-style: solid;
+	border-color: red;
+}
