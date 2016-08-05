@@ -2,10 +2,31 @@ p.pagetitle{
 	font-size:60pt;
 	padding-left:50px;
 	color:#eba613;
+	margin:0px !important;
 }
 
 div.text {
-	height:80px;
-	width:300px;
+	height:100px;
+	width:600px;
+	padding-left:40px;
+	float:left;
+}
+
+div.stuff {
+	height:100px;
+	width:600px;
+	padding-right:40px;
+	float:right;
+}
+
+div.random {
+	height:100px;
+	width:600;
+	padding-right:50px;
+	padding-top:250px;
+	float:right;
+}
+
+img {
 	padding-left:40px;
 }
