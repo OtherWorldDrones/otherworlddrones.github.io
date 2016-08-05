@@ -1,5 +1,5 @@
 div.header {
-	height: 40px;
+	height: 50px;
 	width: 500px;
 	/*border: rgb(0, 250, 0);
 	border-color: green;
@@ -21,6 +21,10 @@ div.top{
 	background: #cbe6f0;
 }
 
+.white{
+	background: white;
+}
+
 .red{
 	color:#26c5f1;
 }
@@ -38,11 +42,11 @@ div.top{
 }
 
 .large{
-	font-size: 70px;
+	font-size: 90px;
 }
 
 .med{
-	font-size: 55px;
+	font-size: 75px;
 }
 
 .cursive{
@@ -60,12 +64,19 @@ div.top{
 	margin: auto;
 }
 div.center{
-	margin: auto;
+	margin: auto !important;
+	text-align: center;
 }
+
 div.left{
 	width: 100px;
 	margin: 0px !important;
 	float: left;
+}
+
+img.left{
+	text-align: left !important;
+	float: left !important;
 }
 
 div.right{
@@ -86,4 +97,8 @@ iframe.chat{
 	width:170px;
 	border-width:10px;
 
+}
+
+.nopad{
+	padding: 0px !important;
 }
