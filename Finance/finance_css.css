@@ -109,3 +109,9 @@ iframe.chat{
 	width:170px;
 	border-width:10px;
 }
+
+img.table {
+	display: block;
+	margin: auto;
+	border-width:10px;
+}
