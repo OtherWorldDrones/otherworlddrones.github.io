@@ -80,3 +80,8 @@ p.chatwith{
 	padding-left:10px;
 
 }
+
+iframe{
+	height:400px;
+	width:175px;
+}
