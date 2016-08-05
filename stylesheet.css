@@ -81,7 +81,9 @@ p.chatwith{
 
 }
 
-iframe{
-	height:400px;
-	width:175px;
+iframe.chat{
+	height:1000px;
+	width:170px;
+	border-width:10px;
+
 }
